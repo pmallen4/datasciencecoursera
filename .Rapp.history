@@ -1,0 +1,9 @@
+'dem()'
+'demo()'
+demo
+'demo'
+install.packages("KernSmooth")
+library(Kernsmooth)
+library(KernSmooth)
+exit
+'q()'
